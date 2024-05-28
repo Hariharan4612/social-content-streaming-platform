@@ -1,4 +1,4 @@
-// frontend/src/redux/authReducer.js
+ // frontend/src/redux/authReducer.js
 import { LOGIN_SUCCESS, LOGIN_FAILURE, LOGOUT } from './authActions';
 
 const initialState = {
